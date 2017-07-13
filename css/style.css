@@ -27,4 +27,6 @@ h1{
 .modal{
 	width: 150px;
 	height: 150px;
+	background-color: grey;
+	color: #e84848;
 }
